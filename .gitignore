@@ -1,0 +1,14 @@
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS specific
+desktop.ini
+.DS_Store
+Thumbs.db
